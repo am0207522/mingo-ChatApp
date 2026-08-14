@@ -1,14 +1,14 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mingo Chat App Backend",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aditya Mishra",
   "license": "ISC",
   "type": "module",
   "dependencies": {

@@ -1,12 +1,14 @@
 import React from "react";
 import SiteHeader from "./components/SiteHeader";
-import Home from "./pages/Home";
+import Chat from "./pages/Chat";
 
 const App = () => {
   return (
     <>
       <SiteHeader />
-      <Home />
+      <div className="p-4">
+        <Chat />
+      </div>
     </>
   );
 };

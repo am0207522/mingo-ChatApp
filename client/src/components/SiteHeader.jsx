@@ -8,7 +8,7 @@ const SiteHeader = () => {
     setSelectedTheme(theme);
     document.documentElement.setAttribute("data-theme", theme);
   };
-// here
+// heree
   return (
     <>
       <div className="bg-primary p-2 flex items-center justify-between">

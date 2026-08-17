@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import ChatSidebar from "../components/ChatSidebar";
 import ChatWindow from "../components/ChatWindow";
 
-// Sidebar ke mock data se naam/color match karne ke liye chhota lookup
+// Sidebar ke mock data se naam/color match karne ke liyee chhota lookup
 const chatMeta = {
   1: { name: "Anika Chavan", color: "bg-pink-400" },
   2: { name: "Housemates", color: "bg-orange-400" },

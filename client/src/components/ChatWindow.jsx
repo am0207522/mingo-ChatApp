@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FiSmile, FiPaperclip, FiSend } from "react-icons/fi";
 
-// Mock messages — baad mein backend/socket see aayengee
+// Mock messages — baad mein backend/socket see aayenge
 const mockMessages = [
   { id: 1, fromMe: false, text: "Hey, any plans for Saturday?", time: "11:50" },
   {

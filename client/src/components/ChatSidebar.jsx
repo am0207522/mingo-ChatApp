@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FiSearch } from "react-icons/fi";
 
-// Mock data — baad mein backend se aayegaa
+// Mock data — baad mein backend se aayega
 const mockChats = [
   {
     id: 1,

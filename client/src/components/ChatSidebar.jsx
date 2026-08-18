@@ -62,7 +62,7 @@ const ChatSidebar = ({ activeChatId, onSelectChat }) => {
 
   return (
     <div className="w-full sm:w-80 h-full border-r border-base-300 flex flex-col bg-base-100">
-      {/* Headerr */}
+      {/* Header*/}
       <div className="p-4 border-b border-base-300">
         <h2 className="text-xl font-bold mb-3">Chats</h2>
         <div className="relative">

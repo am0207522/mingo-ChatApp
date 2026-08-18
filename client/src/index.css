@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* themess */
+/* themes */
 @plugin "flyonui" {
   themes: all;
 }
